@@ -3,14 +3,17 @@
 This is the statistical code for:
 Puka, Buckley, Mulia, Lasserre, Rehm, and Probst (2022). Educational Attainment and Lifestyle Risk Factors Associated with All-Cause Mortality in the United States: Decomposing differential exposure and vulnerability. JAMA Health Forum.
 
+This repo is hereby licensed for use under the GNU GPL version 3.
 
-The data used is publically available from the National Center for Health Statistics.
+
+
+The data used is publicly available from the National Center for Health Statistics.
 
 - The 1997-2014 National Health Interview Survey (NHIS) survey are available here: https://www.cdc.gov/nchs/nhis/1997-2018.htm
 
 - The 2015 Public-Use Linked Mortality Files are available here: https://www.cdc.gov/nchs/data-linkage/mortality-public.htm
 
-The data files were extracted and initially manipuated using SAS. All analyses were completed in R. The SAS and R code are available in this repository. The key variables included in the analyses are listed below.
+The data files were extracted and initially manipulated using SAS. All analyses were completed in R. The SAS and R code are available in this repository. The key variables included in the analyses are listed below.
 
 # Key Variables:
 
