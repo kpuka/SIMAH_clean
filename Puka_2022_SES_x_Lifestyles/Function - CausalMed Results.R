@@ -298,7 +298,7 @@ format_CMed <- function (model, coef_list) {
   
   
   # Function to get the proportion mediated of the combined indirect effect
-  IE_prop <- getTE_IE_NotRobust(CMed_model, coef_list, coef_list[-1]) %>% 
+  IE_prop <- getTE_IE_NotRobust(model, coef_list, coef_list[-1]) %>% 
     as.data.frame() %>% rownames_to_column(var = "variable") %>%
     pivot_wider(names_from="variable", values_from=c("IE", "med_prop", "quantile")) %>%
     mutate (IE_prop = round(`med_prop_2.5%` * 100, 0),
