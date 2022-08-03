@@ -1,7 +1,7 @@
 # About
 
 This is the statistical code for:
-Puka, Buckley, Mulia, Lasserre, Rehm, and Probst (2022). Educational Attainment and Lifestyle Risk Factors Associated with All-Cause Mortality in the United States: Decomposing differential exposure and vulnerability. JAMA Health Forum.
+Puka, Buckley, Mulia, Lasserre, Rehm, and Probst (2022). Educational Attainment and Lifestyle Risk Factors Associated with All-Cause Mortality in the United States: Decomposing differential exposure and vulnerability. [JAMA Health Forum](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2790960).
 
 This repo is hereby licensed for use under the GNU GPL version 3.
 
